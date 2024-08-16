@@ -1,0 +1,36 @@
+# Laravel & Composer
+/.phpunit.cache
+/public/build
+/public/hot
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/vendor
+/node_modules
+/.composer
+/.phpunit.result.cache
+
+# Laravel specific
+/public/storage
+/storage/*.key
+/storage/*.log
+/storage/app/public
+/.env
+/.env.*
+.env.backup
+.env.production
+/phpunit.xml
+/phpunit.xml.dist
+
+# IDEs and editors
+/.idea
+/.vscode
+/.project
+/.phpstorm.meta.php
+/.fleet
+
+# OS-specific files
+.DS_Store
+Thumbs.db
